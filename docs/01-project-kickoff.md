@@ -13,16 +13,16 @@ Northlane Retail Group
 Business Systems Analyst
 
 ## Project Context
-Northlane Retail Group operates in a Canadian SMB retail environment with multiple operational processes spanning product updates, pricing, inventory, and cross-functional follow-through. Although the business already uses core retail systems, operational data remains fragmented across tools and teams, creating recurring exceptions, weak visibility, and delayed resolution.
+Northlane Retail Group operates in a Canadian SMB retail environment where store operations, inventory-related activities, product updates, pricing changes, and operational follow-through depend on multiple systems and cross-functional coordination. Although the business already uses core retail platforms, operational data and update activity remain fragmented across teams, tools, and workflows, creating recurring exceptions, limited visibility, and delayed issue resolution.
 
 ## Business Problem
-The business is experiencing operational inefficiencies because critical retail data and process updates are not consistently controlled across functions. Manual handoffs, under-integrated systems, and inconsistent process controls are leading to repeated operational issues and poor exception visibility.
+Northlane Retail Group is experiencing operational inefficiencies because critical retail data and operational updates are not consistently governed across functions. Manual handoffs, under-integrated systems, inconsistent ownership, and weak process controls are contributing to repeated operational issues, poor exception visibility, and avoidable execution risk across retail operations.
 
 ## Project Objective
-The objective of this case study is to analyze the current operational problem, define the underlying business and systems gaps, and design a structured business systems solution that improves operational integrity, exception visibility, prioritization, and process control.
+The objective of this case study is to assess the current-state operational problem, identify the underlying business and systems gaps, and define a future-state solution approach that improves operational integrity, exception visibility, prioritization, ownership, and process control.
 
 ## Analyst Mandate
-As the Business Systems Analyst, I have been assigned to assess the current-state problem, identify the root operational gaps, engage with stakeholders, and define a future-state solution approach supported by structured analysis artifacts.
+As the Business Systems Analyst, I have been engaged to analyze the current-state environment, identify the root causes of recurring operational exceptions, assess stakeholder needs, and support the definition of a structured future-state approach through business analysis artifacts and solution-focused documentation.
 
 ## Initial Scope Focus
-This case study will focus on operational integrity and exception management across retail operations, with particular attention to process breakdowns involving operational data, manual coordination, and delayed issue resolution.
+This case study focuses on operational integrity and exception management across retail operations, with particular attention to breakdowns involving operational data, manual coordination, inconsistent update handling, and delayed resolution across business and systems workflows.
