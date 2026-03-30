@@ -15,6 +15,9 @@ Business Systems Analyst
 ## Project Context
 Northlane Retail Group operates in a Canadian SMB retail environment where store operations, inventory-related activities, product updates, pricing changes, and operational follow-through depend on multiple systems and cross-functional coordination. Although the business already uses core retail platforms, operational data and update activity remain fragmented across teams, tools, and workflows, creating recurring exceptions, limited visibility, and delayed issue resolution.
 
+## Evidence-Based Business Context
+This case study is grounded in a broader Canadian retail environment in which small and medium-sized businesses operate with growing cross-channel complexity but often without fully integrated operational workflows. As a result, fragmented data handling, manual coordination, and inconsistent process controls create recurring operational exceptions and reduce execution reliability.
+
 ## Business Problem
 Northlane Retail Group is experiencing operational inefficiencies because critical retail data and operational updates are not consistently governed across functions. Manual handoffs, under-integrated systems, inconsistent ownership, and weak process controls are contributing to repeated operational issues, poor exception visibility, and avoidable execution risk across retail operations.
 
@@ -26,3 +29,10 @@ As the Business Systems Analyst, I have been engaged to analyze the current-stat
 
 ## Initial Scope Focus
 This case study focuses on operational integrity and exception management across retail operations, with particular attention to breakdowns involving operational data, manual coordination, inconsistent update handling, and delayed resolution across business and systems workflows.
+
+## Initial Success Measures
+The effectiveness of the future-state approach will later be evaluated through measures such as:
+- reduction in unresolved operational exceptions
+- improvement in exception resolution time
+- improved visibility into issue ownership and status
+- reduction in repeated operational discrepancies
